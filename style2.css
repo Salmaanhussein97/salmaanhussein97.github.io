@@ -1,1 +1,29 @@
+body{
+  background-color: Yellow;
+}
 
+h1{
+  color: Black;
+  font-size: 34px;
+  font-family: Arial Black;
+  margin: 14% 29%;
+}
+
+
+
+
+.exp-header{
+  text-align: center;
+  text-trasform: uppercase;
+  border-top: 3px solid #111;
+  border-bottom: 3px solid #111;
+  font-family: Arial Black;
+  background-color: Red
+}
+
+h4{
+  font-family: Arial Black
+}
+
+h5{
+  font-family: Arial Black
